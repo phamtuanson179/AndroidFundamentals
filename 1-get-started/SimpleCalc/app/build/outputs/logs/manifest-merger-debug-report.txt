@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/f8a92f740fe83adc0c4abaf048a3a6f5/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/315955fad529b187ffd3017403e67357/transformed/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/6d61314ae7e40ca8daa29881dc324f96/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/860e014626b5d5239176c4dfcc533d90/transformed/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/f177937fae4b55d3d5e71fea71a42b4f/transformed/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/8b50935db6ceb2e3e2a2b84f7b2f7840/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/ffacef631008892179d062d00881bf84/transformed/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/a9fba280f68ca3df545b7a01b7ef3cb5/transformed/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/99afa01320b2497207a8276ac65c97af/transformed/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/d5b23bb486318a1c8434795340317210/transformed/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/c639510d2d88e15e2f74a78595eb3cb9/transformed/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:17:1-34:12
+		INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/f8a92f740fe83adc0c4abaf048a3a6f5/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/f8a92f740fe83adc0c4abaf048a3a6f5/transformed/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/315955fad529b187ffd3017403e67357/transformed/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/315955fad529b187ffd3017403e67357/transformed/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/6d61314ae7e40ca8daa29881dc324f96/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/6d61314ae7e40ca8daa29881dc324f96/transformed/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/860e014626b5d5239176c4dfcc533d90/transformed/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/860e014626b5d5239176c4dfcc533d90/transformed/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/f177937fae4b55d3d5e71fea71a42b4f/transformed/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/f177937fae4b55d3d5e71fea71a42b4f/transformed/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/8b50935db6ceb2e3e2a2b84f7b2f7840/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/8b50935db6ceb2e3e2a2b84f7b2f7840/transformed/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/ffacef631008892179d062d00881bf84/transformed/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/phamtuanson/.gradle/caches/transforms-3/ffacef631008892179d062d00881bf84/transformed/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/a9fba280f68ca3df545b7a01b7ef3cb5/transformed/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/a9fba280f68ca3df545b7a01b7ef3cb5/transformed/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/99afa01320b2497207a8276ac65c97af/transformed/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/99afa01320b2497207a8276ac65c97af/transformed/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/d5b23bb486318a1c8434795340317210/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/d5b23bb486318a1c8434795340317210/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/c639510d2d88e15e2f74a78595eb3cb9/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/phamtuanson/.gradle/caches/transforms-3/c639510d2d88e15e2f74a78595eb3cb9/transformed/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phamtuanson/Documents/AndroidFundamentals/2-user-experience/SimpleCalc/app/src/main/AndroidManifest.xml
